@@ -1,3 +1,16 @@
+# [1.3.0](https://github.com/severiano-flavio/semantic-test/compare/v1.2.0...v1.3.0) (2022-09-11)
+
+
+### Bug Fixes
+
+* Corrige texto em função ([9c29a16](https://github.com/severiano-flavio/semantic-test/commit/9c29a1605b6a4c61404ad2fa10baf0caff68dd0d))
+
+
+### Features
+
+* adiciona parágrafo ([3939b24](https://github.com/severiano-flavio/semantic-test/commit/3939b2477e718884f2e047b00f838c5944ba4b8f))
+* Cria novo texto ([1a46286](https://github.com/severiano-flavio/semantic-test/commit/1a46286fc0cd4982a3d4ce2159f8f35f75d3f098))
+
 # [1.2.0](https://github.com/severiano-flavio/semantic-test/compare/v1.1.0...v1.2.0) (2022-09-11)
 
 
