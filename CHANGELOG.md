@@ -1,3 +1,17 @@
+# [1.4.0](https://github.com/severiano-flavio/semantic-test/compare/v1.3.1...v1.4.0) (2022-09-12)
+
+
+### Features
+
+* Adiciona outro parágrafo ([03499d0](https://github.com/severiano-flavio/semantic-test/commit/03499d05ac6f6c64ab011aa3bbb15d4c623f5bff))
+
+## [1.3.1](https://github.com/severiano-flavio/semantic-test/compare/v1.3.0...v1.3.1) (2022-09-12)
+
+
+### Bug Fixes
+
+* ajusta tudo ([52002e8](https://github.com/severiano-flavio/semantic-test/commit/52002e81384ea81f6ff6926302dbb048a6a5e7e5))
+
 # [1.3.0](https://github.com/severiano-flavio/semantic-test/compare/v1.2.0...v1.3.0) (2022-09-11)
 
 

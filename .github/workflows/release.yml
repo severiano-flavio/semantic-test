@@ -14,7 +14,7 @@ jobs:
         with:
           noode-version: "16.x"
       - name: Install
-        run: yarn install --frozen-lockfile
+        run: yarn install --immutable
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
