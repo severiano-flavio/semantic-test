@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/severiano-flavio/semantic-test/compare/v1.3.0...v1.3.1) (2022-09-12)
+
+
+### Bug Fixes
+
+* ajusta tudo ([52002e8](https://github.com/severiano-flavio/semantic-test/commit/52002e81384ea81f6ff6926302dbb048a6a5e7e5))
+
 # [1.3.0](https://github.com/severiano-flavio/semantic-test/compare/v1.2.0...v1.3.0) (2022-09-11)
 
 
