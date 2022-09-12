@@ -7,15 +7,17 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
         with:
-          noode-version: "16.x"
+          node-version: "16.x"
       - name: Install
         run: yarn install --immutable
+  release:
+    steps:
       - name: Release
+      needs: build
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: yarn release
