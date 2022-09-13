@@ -1,3 +1,15 @@
+# [1.5.0](https://github.com/severiano-flavio/semantic-test/compare/v1.4.0...v1.5.0) (2022-09-13)
+
+
+### Bug Fixes
+
+* merge branch 'main' ([b4332cc](https://github.com/severiano-flavio/semantic-test/commit/b4332cc327130480601f062e02e01b8f5154ad77))
+
+
+### Features
+
+* adiciona novo arquivo js ([5734e91](https://github.com/severiano-flavio/semantic-test/commit/5734e91756a4fff325685764b637de31a632b214))
+
 # [1.4.0](https://github.com/severiano-flavio/semantic-test/compare/v1.3.1...v1.4.0) (2022-09-12)
 
 
