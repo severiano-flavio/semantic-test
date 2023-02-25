@@ -1,3 +1,10 @@
+## [1.6.2-dev.1](https://github.com/severiano-flavio/semantic-test/compare/v1.6.1...v1.6.2-dev.1) (2023-02-25)
+
+
+### Bug Fixes
+
+* ajusta release ([40ba695](https://github.com/severiano-flavio/semantic-test/commit/40ba695d17e8d541a2653a7520998502e5f3937b))
+
 ## [1.6.1](https://github.com/severiano-flavio/semantic-test/compare/v1.6.0...v1.6.1) (2023-02-25)
 
 
