@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/severiano-flavio/semantic-test/compare/v1.5.0...v1.6.0) (2023-02-25)
+
+
+### Features
+
+* ajusta textp ([8c7f697](https://github.com/severiano-flavio/semantic-test/commit/8c7f697dde5c44c3062a95b78e0f3c2380a09290))
+
 # [1.5.0](https://github.com/severiano-flavio/semantic-test/compare/v1.4.0...v1.5.0) (2022-09-13)
 
 
