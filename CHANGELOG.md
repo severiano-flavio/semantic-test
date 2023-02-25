@@ -1,3 +1,10 @@
+## [1.6.1](https://github.com/severiano-flavio/semantic-test/compare/v1.6.0...v1.6.1) (2023-02-25)
+
+
+### Bug Fixes
+
+* ajusta action ([9b800e6](https://github.com/severiano-flavio/semantic-test/commit/9b800e6c7f212eadb530a6e32a77ca35b683d8ce))
+
 # [1.6.0](https://github.com/severiano-flavio/semantic-test/compare/v1.5.0...v1.6.0) (2023-02-25)
 
 
